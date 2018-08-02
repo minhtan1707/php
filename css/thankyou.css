@@ -1,0 +1,16 @@
+
+h2{
+    font-weight:bold;
+    font-size:80px;
+}
+h2 > span{
+    color:rgb(96, 91, 231);
+}
+hr{
+    border-color:rgb(96, 91, 231);
+    border-width: 5px;
+    width:10%;
+}
+p{
+    font-size:30px;
+}

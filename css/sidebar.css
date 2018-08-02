@@ -1,0 +1,7 @@
+.sidebarmain{
+    position:relative;
+}
+.sidebar{
+    position:sticky;
+    top:0px;
+}

@@ -1,0 +1,22 @@
+#paging a,#paging .page{
+    display:inline-block;
+    border-radius: 16px;
+    padding: 8px 16px;
+    width:40px;
+    height:40px;
+}
+#paging .active{
+
+    padding: 8px 16px;
+
+}
+#paging .page{
+    background-color:rgba(100, 100, 100, 0.5);
+    color:white;
+    font-size:0.9rem;
+}
+
+#paging .active:hover{
+    background-color:rgba(100, 100, 100, 0.5);
+    color:white;
+}
