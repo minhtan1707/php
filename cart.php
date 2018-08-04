@@ -2,10 +2,7 @@
     require('config/db.php');
     require('config/config.php');
     session_start();
-    // sort($_SESSION['cart']);
-    // echo '<br>';
-    // print_r($_SESSION['cart']);
-    // echo '<br>';
+
   ?>
 
 
